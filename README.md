@@ -1,7 +1,7 @@
 # Assignment Submission - Vijay Kumar
 
 ##  Project Code
-GitHub: https://github.com/codewithvijay07/kpa-api-assignment  
+https://github.com/codewithvijay07/Restapi 
 **OR**  
 ZIP file: attached with email
 
